@@ -1,5 +1,5 @@
 # SaaS Churn & Revenue Impact Analysis
-![CI](https://github.com/<твоя-user>/<репо-име>/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/danymitkova/saas-churn-revenue-analysis/actions/workflows/ci.yml/badge.svg)
 
 
 An end-to-end, **production-style** analytics project that answers two business questions:
