@@ -12,11 +12,14 @@ The project mirrors the workflow I used at Amazon, Salesforce, and Databricks—
 ---
 ## 📊 Interactive dashboard (Streamlit)
 
+## 📊 Interactive dashboard (Streamlit)
+
 Run locally:
 
 ```bash
 pip install -r requirements.txt
 streamlit run streamlit_app.py
+
 ## ✅ Data-quality tests & CI
 
 - Tests live in `tests/` and use **pytest**.  
