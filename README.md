@@ -1,4 +1,6 @@
 # SaaS Churn & Revenue Impact Analysis
+![CI](https://github.com/<твоя-user>/<репо-име>/actions/workflows/ci.yml/badge.svg)
+
 
 An end-to-end, **production-style** analytics project that answers two business questions:
 
@@ -8,6 +10,19 @@ An end-to-end, **production-style** analytics project that answers two business 
 The project mirrors the workflow I used at Amazon, Salesforce, and Databricks—only the data here is fully **synthetic** and privacy-safe.
 
 ---
+## 📊 Interactive dashboard (Streamlit)
+
+Run locally:
+
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+## ✅ Data-quality tests & CI
+
+- Tests live in `tests/` and use **pytest**.  
+- Every push triggers GitHub Actions (`.github/workflows/ci.yml`).  
+- Badge at the top shows the current status.
+
 
 ## 🗂️ Project structure
 
