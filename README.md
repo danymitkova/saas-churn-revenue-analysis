@@ -1,6 +1,7 @@
 # SaaS Churn & Revenue Impact Analysis
 ![CI](https://github.com/danymitkova/saas-churn-revenue-analysis/actions/workflows/ci.yml/badge.svg?branch=main)
 
+
 End-to-end, **production-style** analytics project answering two questions:
 
 1. **Which customers are likely to churn?**  
