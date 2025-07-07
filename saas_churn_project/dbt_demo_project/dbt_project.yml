@@ -1,0 +1,3 @@
+name: 'saas_churn_dbt'
+version: '1.0'
+profile: 'default'
